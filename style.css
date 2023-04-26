@@ -128,7 +128,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  column-gap: 16px;
+  column-gap: 24px;
 }
 
 .work-item {
