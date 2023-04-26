@@ -147,20 +147,6 @@ body {
   align-items: center;
 }
 
-.item1-vector {
-  position: absolute;
-  top: -2%;
-  width: 36px;
-  height: 36px;
-}
-.item2-vector {
-  position: absolute;
-  bottom: 0.19%;
-  right: 43%;
-  width: 32px;
-  height: 32px;
-}
-
 .work-image {
   width: 60px;
   height: 50px;
